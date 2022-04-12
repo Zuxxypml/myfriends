@@ -1,0 +1,14 @@
+{
+  "name": "myfriends",
+  "version": "1.0.0",
+  "description": "A data about me and my friends",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zuxxy",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.2.10"
+  }
+}
